@@ -18,8 +18,12 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DhananjayaSenadheera/icons/blob/781c191d718d28c9ca65c57114dc48dde186f8f2/vs.jpeg" alt="vscode" width="40" height="40"/> </a></p>
 
 <h3 align="left">Connect with me</h3>
+# Connect with Us
+
+[![GitHub](https://img.shields.io/badge/GitHub-Teqbot-181717?style=for-the-badge&logo=github)](https://github.com/your-github-username)
 [![Facebook](https://img.shields.io/badge/Facebook-Like-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/your-facebook-page)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/your-instagram-username)
+
 
 
 
