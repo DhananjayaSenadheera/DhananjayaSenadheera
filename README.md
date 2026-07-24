@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm Dhananjaya Senadheera</h1>
+<h1 align="center">Hi,I'm Dhananjaya (DJ)</h1>
 <h3 align="center">A passionate dot Net Core backend developer from UK</h3>
 
 - 🌱 I’m currently learning **everything**
